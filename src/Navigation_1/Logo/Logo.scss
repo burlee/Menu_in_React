@@ -1,0 +1,11 @@
+@import '../../config';
+
+.Logo{
+    font-size: 24px;
+    color: $primary-color;
+    font-weight: bold;
+    span{
+        color: $three-color;
+        margin-right: 5px;
+    }
+}
